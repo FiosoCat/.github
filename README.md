@@ -25,6 +25,6 @@ Forbidden Hub crafts free Lua scripts for *99 Nights in the Forest*—think Auto
 - **[99 Nights Meta](https://github.com/FiosoCat/FioMeta-Database)**: Core json item.
 ## 🔗 Connect
 - GitHub: [github.com/FiosoCat](https://github.com/FiosoCat)
-- Discord: [Support & Drops](https://discord.gg/TUxZ6g2QS9
+- Discord: [Support & Drops](https://discord.gg/TUxZ6g2QS9)
 
 Let’s conquer those nights, Fioso! 🌑✨
