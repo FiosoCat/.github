@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/FiosoCat/.github/main/profile/forbidden-cube.png" alt="Forbidden Hub Cube" width="200"/>
   <h1>Forbidden Hub</h1>
-  <p><em>Lua (Roblox) scripts for <strong>99 Nights in the Forest</strong>—educational only.</em></p>
+  <p><em>Lua (Roblox) scripthub for <strong>99 Nights in the Forest</strong>—educational only.</em></p>
 </div>
 
 ## 🌲 About Us
